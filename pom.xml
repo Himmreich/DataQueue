@@ -15,7 +15,7 @@
 	<description>DataQueue</description>
 	<properties>
 		<java.version>22</java.version>
-		<caml.version>4.12.0</caml.version>
+		<caml.version>4.14.1</caml.version>
 	</properties>
 	<dependencies>
 		<dependency>
